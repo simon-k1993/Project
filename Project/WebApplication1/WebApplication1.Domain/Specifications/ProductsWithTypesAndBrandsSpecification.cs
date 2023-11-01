@@ -16,7 +16,8 @@ namespace WebApplication1.Domain.Specifications
             (!typeId.HasValue || x.ProductTypeId == typeId)
             )
         {
-            AddInclude(x => x.ProductType);
+            AddInclude(x => x.ProductType); 
+
             AddInclude(x => x.ProductBrand);
             AddOrderBy(x => x.Name);
 
