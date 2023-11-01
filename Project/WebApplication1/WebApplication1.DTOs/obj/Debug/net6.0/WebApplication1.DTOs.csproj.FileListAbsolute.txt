@@ -1,0 +1,15 @@
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\bin\Debug\net6.0\WebApplication1.DTOs.deps.json
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\bin\Debug\net6.0\WebApplication1.DTOs.dll
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\bin\Debug\net6.0\WebApplication1.DTOs.pdb
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.dll
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\refint\WebApplication1.DTOs.dll
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.pdb
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\ref\WebApplication1.DTOs.dll
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\bin\Debug\net6.0\WebApplication1.Domain.dll
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\bin\Debug\net6.0\WebApplication1.Domain.pdb
+C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.DTOs\obj\Debug\net6.0\WebApplication1.DTOs.csproj.CopyComplete
