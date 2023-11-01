@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\New folder (2)\\Project\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj": {
+    "C:\\Users\\Simon\\Desktop\\New folder (2)\\Project\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\New folder (2)\\Project\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj",
         "projectName": "WebApplication1.Domain",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\New folder (2)\\Project\\Project\\WebApplication1\\WebApplication1.Domain\\WebApplication1.Domain.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Project\\WebApplication1\\WebApplication1.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\New folder (2)\\Project\\Project\\WebApplication1\\WebApplication1.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

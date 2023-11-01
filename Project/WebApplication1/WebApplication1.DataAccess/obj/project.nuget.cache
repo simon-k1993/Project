@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fuyhMPiJ+E2j4FksA1hsBZqK6NDMlMm6rXVfGN3yr6JIH9nCLZYfE6TU6mqOPre4HprZz31xpP2IqB6rvIII5w==",
+  "dgSpecHash": "1TQIKRIlbjsYCmH9Yvkzg1EGkOi2iQ6Uk0aNzzCdEQwtaw/AD17HAa9bmH8ppucrvdSRdvNjxhgBSkqF9Zk+LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Project\\WebApplication1\\WebApplication1.DataAccess\\WebApplication1.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\New folder (2)\\Project\\Project\\WebApplication1\\WebApplication1.DataAccess\\WebApplication1.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

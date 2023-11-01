@@ -10,3 +10,15 @@ C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.Domain\obj\Debug\
 C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\refint\WebApplication1.Domain.dll
 C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.pdb
 C:\Users\Simon\Desktop\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\ref\WebApplication1.Domain.dll
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\bin\Debug\net6.0\WebApplication1.Domain.deps.json
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\bin\Debug\net6.0\WebApplication1.Domain.dll
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\bin\Debug\net6.0\WebApplication1.Domain.pdb
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.AssemblyInfo.cs
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.dll
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\refint\WebApplication1.Domain.dll
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\WebApplication1.Domain.pdb
+C:\Users\Simon\Desktop\New folder (2)\Project\Project\WebApplication1\WebApplication1.Domain\obj\Debug\net6.0\ref\WebApplication1.Domain.dll
