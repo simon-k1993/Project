@@ -33,10 +33,10 @@ namespace WebApplication1.DataAccess
             }
 
 
-            //if (spec.IsPagingEnabled != null)
-            //{
-            //    query = query.Skip(spec.Skip).Take(spec.Take);
-            //}
+            if (spec.IsPagingEnabled)
+            {
+                query = query.Skip(spec.Skip).Take(spec.Take);
+            }
 
             query = spec.Includes.Aggregate(query, (current, include) => current.Include(include));
 

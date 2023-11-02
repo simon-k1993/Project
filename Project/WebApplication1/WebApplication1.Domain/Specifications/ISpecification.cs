@@ -16,8 +16,8 @@ namespace WebApplication1.Domain.Specifications
 
         Expression<Func<T, object>> OrderByDescending { get; }
 
-        //int Take { get; }
-        //int Skip { get; }
-        //bool IsPagingEnabled { get; }
+        int Take { get; }
+        int Skip { get; }
+        bool IsPagingEnabled { get; }
     }
 }

@@ -37,6 +37,15 @@ namespace WebApplication1.Extensions
                 };
             });
 
+            //services.AddCors(opt =>
+            //{
+            //    opt.AddPolicy("CorsPolicy", policy =>
+            //    {
+            //        policy.AllowAnyHeader().WithOrigins("https://localhost:4200");
+            //    });
+            //});
+            
+
             return services;
         }
     }

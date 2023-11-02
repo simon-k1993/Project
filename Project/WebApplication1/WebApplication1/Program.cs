@@ -35,7 +35,10 @@ internal class Program
 
         app.UseStaticFiles();
 
+        //app.UseCors("CorsPolicy");
+
         app.UseAuthorization();
+
         app.MapControllers();
 
         using var scope = app.Services.CreateScope();
